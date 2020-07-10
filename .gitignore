@@ -1,0 +1,18 @@
+*.class
+
+# Package Files #
+*.jar
+
+target/
+
+#Eclipse files
+**/.project
+**/.classpath
+**/.settings/
+blog/bin/
+
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+
